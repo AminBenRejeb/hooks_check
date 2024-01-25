@@ -1,0 +1,10 @@
+.film{
+    background-image: url('https://2.bp.blogspot.com/-0Bb4Zh9yNOM/WVEkYH5TVVI/AAAAAAAAAOg/pMCzyAcNylYl_2w5uVZYFw0pcQr54PBogCLcBGAs/s1600/filmstripe-pc3a5-rull-iloveimg-compressed.jpg'); /* Chemin vers votre image */
+ 
+  background-position: center;
+  height: 100vh; /* Ajustez la hauteur selon vos besoins */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
